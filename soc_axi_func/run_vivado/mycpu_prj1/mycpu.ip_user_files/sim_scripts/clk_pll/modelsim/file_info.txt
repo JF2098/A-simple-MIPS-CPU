@@ -1,4 +1,0 @@
-xpm_cdc.sv,systemverilog,xil_defaultlib,E:/Xilinx/Vivado/2018.3/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,
-xpm_memory.sv,systemverilog,xil_defaultlib,E:/Xilinx/Vivado/2018.3/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,
-xpm_VCOMP.vhd,vhdl,xpm,E:/Xilinx/Vivado/2018.3/data/ip/xpm/xpm_VCOMP.vhd,
-glbl.v,Verilog,xil_defaultlib,glbl.v
