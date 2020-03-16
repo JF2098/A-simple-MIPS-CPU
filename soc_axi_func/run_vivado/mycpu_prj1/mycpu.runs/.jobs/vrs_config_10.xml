@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="axi_ram_synth_1" LaunchDir="D:/OneDrive - cqu.edu.cn/Source/Vivado/func_test_v0.03/soc_axi_func/run_vivado/mycpu_prj1/mycpu.runs/axi_ram_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="D:/OneDrive - cqu.edu.cn/Source/Vivado/func_test_v0.03/soc_axi_func/run_vivado/mycpu_prj1/mycpu.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="axi_ram_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+
